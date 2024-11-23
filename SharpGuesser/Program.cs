@@ -1,4 +1,9 @@
-﻿namespace SharpGuesser;
+﻿//Written by Christopher M.
+//https://www.creatisoft.com
+//2024
+
+
+namespace SharpGuesser;
 
 class Program {
     static void Main(string[] args) {
